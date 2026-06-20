@@ -1,0 +1,22 @@
+Debug/
+Release/
+*.hex
+*.bin
+*.elf
+*.o
+*.d
+*.su
+Backup/
+*.pwi
+*.bak
+STM32CubeMX.exe
+STM32CubeMX.l4j.ini
+.installationinformation
+Project Backups/
+db/
+help/
+jre/
+olddb/
+plugins/
+third_parties_plugins/
+utilities/
